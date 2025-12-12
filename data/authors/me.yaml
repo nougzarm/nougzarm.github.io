@@ -1,85 +1,84 @@
-schema: hugoblox/author/v1
-slug: me
+schema: "hugoblox/author/v1"
+slug: "me"
 is_owner: true
 name:
-  display: Nugzari Uzoevi
-  given: Nugzari
-  family: Uzoevi
-  pronouns: il/lui
+  display: "Nugzari Uzoevi"
+  given: "Nugzari"
+  family: "Uzoevi"
+  pronouns: "il/lui"
 status:
   icon: "🔐"
-role: Ingénieur Cryptographie & Rust
-bio: >
-  Je suis spécialisé en cryptographie (post-quantique, ZKP) et en développement système avec Rust.
-  Actuellement à la recherche d'opportunités dans le domaine de la cryptographie.
+role: "Cryptographe"
+bio: "Récemment diplômé d'un Master de Mathhématiques, Informatiques et Cryptologie (MIC), je suis actuellement à la recherche d'opportunités dans le domaine de la cryptographie.\n"
 affiliations:
-  - name: Université Paris Cité
-    url: https://u-paris.fr/
+  - name: "Université Paris Cité"
+    url: "https://u-paris.fr/"
 links:
-  - icon: at-symbol
+  - icon: "at-symbol"
     url: "mailto:nougzar.ouzoev@hotmail.fr"
-    label: Me contacter
-  - icon: brands/github
-    url: https://github.com/nougzarm
-  - icon: brands/linkedin
-    url: www.linkedin.com/in/nugzari-uzoevi-2a2342278
+    label: "Me contacter"
+  - icon: "brands/github"
+    url: "https://github.com/nougzarm"
+  - icon: "brands/linkedin"
+    url: "www.linkedin.com/in/nugzari-uzoevi-2a2342278"
 education:
-  - degree: Master 2 Mathématiques, Informatique, Cryptologie (MIC)
-    institution: Université Paris Cité
-    start: 2024-01-01
-    end: 2025-12-31
-    summary: |
-      Cours majeurs: Cryptologie symétrique/asymétrique, Réseaux sécurisés, Informatique embarquée, sécurité des protocoles, ZKP.
-  - degree: Master 2 Mathématiques fondamentales
-    institution: Université Paris Cité
-    start: 2022-01-01
-    end: 2023-12-31
-    summary: |
-      Géométrie algébrique, Théorie des schémas, Théorie des catégories.
-  - degree: Licence 3 - Master 1 Maths fondamentales et appliquées
-    institution: Université Paris Cité
-    start: 2020-01-01
-    end: 2022-12-31
-  - degree: CPGE Mathématiques (MPSI-MP)
-    institution: Lycée Jacques Amyot
-    start: 2018-01-01
-    end: 2020-12-31
+  - degree: "Master 2 Mathématiques, Informatique, Cryptologie (MIC)"
+    institution: "Université Paris Cité"
+    start: "2024-01-01"
+    end: "2025-12-31"
+    summary: "Cours majeurs: Cryptologie symétrique/asymétrique, Réseaux sécurisés, Informatique embarquée, sécurité des protocoles, ZKP.\n"
+  - degree: "Master 2 Mathématiques fondamentales"
+    institution: "Université Paris Cité"
+    start: "2022-01-01"
+    end: "2023-12-31"
+    summary: "Géométrie algébrique, Théorie des schémas, Théorie des catégories.\n"
+  - degree: "Licence 3 - Master 1 Maths fondamentales et appliquées"
+    institution: "Université Paris Cité"
+    start: "2020-01-01"
+    end: "2022-12-31"
+  - degree: "CPGE Mathématiques (MPSI-MP)"
+    institution: "Lycée Jacques Amyot"
+    start: "2018-01-01"
+    end: "2020-12-31"
 experience:
-  - role: Stage de fin d'études en cryptographie (ZKP)
-    org: UVSQ (Laboratoire)
-    start: 2025-05-01
-    end: 2025-10-31
-    summary: |
-      Sous la direction de Michele Orrù et Balthazar Bauer.
+  - role: "Stage de fin d'études en cryptographie (ZKP)"
+    org: "UVSQ (Laboratoire)"
+    start: "2025-05-01"
+    end: "2025-10-31"
+    summary: "Sous la direction de Michele Orrù et Balthazar Bauer.
+
       * Contribution à la librairie open source **sigma-proofs** (Rust).
+
       * Travaux menant à la standardisation IETF et intégration dans Tor.
-      * Implémentation de protocoles Sigma et architecture modulaire.
+
+      * Implémentation de protocoles Sigma et architecture modulaire.\n"
 skills:
-  - name: Langages & Outils
+  - name: "Langages & Outils"
     items:
-      - label: Rust
-        level: 5 
-      - label: Python
-        level: 4
-      - label: C
-        level: 3
-      - label: SageMath
-        level: 4
-      - label: Git / Linux
-        level: 4
-  - name: Expertises Crypto
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - label: Post-Quantum (Kyber)
+      - label: "Rust"
         level: 5
-      - label: Zero-Knowledge Proofs
+      - label: "Python"
         level: 4
-      - label: Cryptanalyse
+      - label: "C"
+        level: 3
+      - label: "SageMath"
+        level: 4
+      - label: "Git / Linux"
+        level: 4
+  - name: "Expertises Crypto"
+    color: "#eeac02"
+    color_border: "#f0bf23"
+    items:
+      - label: "Post-Quantum (Kyber)"
+        level: 5
+      - label: "Zero-Knowledge Proofs"
+        level: 4
+      - label: "Cryptanalyse"
         level: 3
 languages:
-  - name: Français
+  - name: "Français"
     level: 5
-  - name: Anglais
-    level: 4 
+  - name: "Anglais"
+    level: 4
 awards: []
+weight: null
