@@ -2,7 +2,7 @@ schema: "hugoblox/author/v1"
 slug: "me"
 is_owner: true
 name:
-  display: "Moi"
+  display: "Nugzari Uzoevi"
   given: "Nugzari"
   family: "Uzoevi"
   pronunciation: "Nougzar"
@@ -101,12 +101,9 @@ skills:
       - label: "Photography"
         level: 4
 languages:
-  - name: "English"
+  - name: "French"
     level: 5
-  - name: "Chinese"
-    level: 4
-  - name: "Portuguese"
-    level: 1
+    label: "Native"
 awards:
   - title: "Neural Networks and Deep Learning"
     url: "https://www.coursera.org/learn/neural-networks-deep-learning"
