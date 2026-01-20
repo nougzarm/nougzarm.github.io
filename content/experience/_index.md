@@ -10,10 +10,11 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experience-1
+  - block: experience
     content:
       title: Expérience Professionnelle
-      username: me
+      username: pro
     design:
       date_format: 'January 2006'
+      is_education_first: false
 ---
