@@ -8,7 +8,7 @@ education:
   - degree: "Master 2 Mathématiques fondamentales"
     institution: "Université Paris Cité"
     start: "2022-09-01"
-    end: "2023-9-01"
+    end: "2023-09-01"
     summary: "Cours suivis: Variétés algébriques, Théorie des catégories, Homologie, Schémas, Faisceaux cohérents, Champs algébriques"
 
   - degree: "Master 1 Mathématiques fondamentales et appliquées"
@@ -21,6 +21,7 @@ education:
     institution: "Université Paris Cité"
     start: "2020-09-01"
     end: "2021-05-01"
+    summary: "Cours suivis: Algèbre, Analyse, Probabilités, Géométrie affine, Actions de groupes, Intégration et séries de Fourier, Fonctions holomorphes, Logique"
 
   - degree: "CPGE Mathématiques (MPSI-MP)"
     institution: "Lycée Jacques Amyot"
