@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Formation
-    url: education/
+    url: formation/
     weight: 20
   - name: Experience
     url: experience/
