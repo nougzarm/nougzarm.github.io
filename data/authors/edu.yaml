@@ -16,9 +16,9 @@ education:
     start: "2021-01-01"
     end: "2022-05-01"
     summary: |
-      ###Cours suivis
+      **Cours suivis**
       * **Semestre 1 :** Algèbre, Analyse, Logique.
-      * **Semestre 2 :** Théorie de Galois, Arithmétique (Théorie algébrique des nombres), Théorie des ensembles, Topologie algébrique, Géométrie algébrique.
+      * **Semestre 2 :** Théorie de Galois, Arithmétique, Théorie des ensembles, Topologie algébrique, Géométrie algébrique.
 
   - degree: "Licence 3 Mathématiques fondamentales et appliquées"
     institution: "Université Paris Cité"
