@@ -23,7 +23,7 @@ tags:
 
 ### Présentation du projet
 
-kyber-nz est une librairie de **Cryptographie Post-Quantique (PQC)** haute performance développée en Rust pur.
+kyber-nz est une librairie de **Cryptographie Post-Quantique (PQC)** haute performance, développée en Rust pur, qui implémente le mécanisme d'encapsulation de clé **ML-KEM**.
 
 #### Points clés :
 * **Standard FIPS 203** : Implémentation complète de ML-KEM (Kyber), validée par les vecteurs de tests officiels du NIST (niveaux 512, 768 et 1024).
