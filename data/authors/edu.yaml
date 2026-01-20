@@ -3,7 +3,8 @@ education:
     institution: "Université Paris Cité"
     start: "2024-09-01"
     end: "2025-10-01"
-    summary: "Cours suivis: Cryptologie symétrique/asymétrique, Codes correcteurs, Réseaux sécurisés, Informatique embarquée, Protocoles des services internet, Méthodes formelles, sécurité des protocoles"
+    summary: |
+      * **Cours suivis :** Cryptologie symétrique/asymétrique, Codes correcteurs, Réseaux sécurisés, Informatique embarquée, Protocoles des services internet, Méthodes formelles, sécurité des protocoles
 
   - degree: "Master 2 Mathématiques fondamentales"
     institution: "Université Paris Cité"
