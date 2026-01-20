@@ -9,7 +9,9 @@ education:
     institution: "Université Paris Cité"
     start: "2022-09-01"
     end: "2023-09-01"
-    summary: "Cours suivis: Variétés algébriques, Théorie des catégories, Homologie, Schémas, Faisceaux cohérents, Champs algébriques"
+    summary: |
+      * **Cours suivis (semestre 1) :** Variétés algébriques, Théorie des catégories, Homologie, Schémas, Faisceaux cohérents, Champs algébriques
+      * **Semestre 2 :** Stage de fin de Master
 
   - degree: "Master 1 Mathématiques fondamentales et appliquées"
     institution: "Université Paris Cité"
