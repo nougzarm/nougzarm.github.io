@@ -17,3 +17,12 @@ tags:
 ---
 
 <!-- Describe the problem, your approach, key results, and links to code/data. -->
+
+### Présentation du projet
+
+Ce projet est une librairie de **Cryptographie Post-Quantique (PQC)** développée en Rust pur.
+
+#### Points clés :
+* **Standard FIPS 203** : Implémentation complète de ML-KEM (Kyber), validée par les vecteurs de tests officiels du NIST (niveaux 512, 768 et 1024).
+* **Sécurité Offensive** : Conception résistante aux attaques par canaux auxiliaires (opérations en temps constant et nettoyage de la mémoire avec `zeroize`).
+* **Performance** : Optimisation système sans allocations dynamiques pour une utilisation en informatique embarquée.
