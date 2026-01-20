@@ -12,6 +12,7 @@ links:
     url: https://crates.io/crates/kyber-nz
 tags:
   - Cryptography
+  - FIPS 203
   - Kyber
   - ML-KEM
   - Open Source

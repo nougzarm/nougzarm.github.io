@@ -7,8 +7,8 @@ main:
   - name: Accueil
     url: /
     weight: 10
-  - name: Education
-    url: education/
+  - name: Formation
+    url: formation/
     weight: 20
   - name: Experience
     url: experience/
