@@ -3,20 +3,25 @@ education:
     institution: "Université Paris Cité"
     start: "2024-09-01"
     end: "2025-10-01"
-    summary: "Cours majeurs: Cryptologie symétrique/asymétrique, Réseaux sécurisés, Informatique embarquée, sécurité des protocoles, ZKP.\n"
+    summary: "Cours suivis: Cryptologie symétrique/asymétrique, Codes correcteurs, Réseaux sécurisés, Informatique embarquée, Protocoles des services internet, Méthodes formelles, sécurité des protocoles"
+
   - degree: "Master 2 Mathématiques fondamentales"
     institution: "Université Paris Cité"
     start: "2022-09-01"
     end: "2023-9-01"
-    summary: "Géométrie algébrique, Théorie des schémas, Théorie des catégories.\n"
+    summary: "Cours suivis: Variétés algébriques, Théorie des catégories, Homologie, Schémas, Faisceaux cohérents, Champs algébriques"
+
   - degree: "Master 1 Mathématiques fondamentales et appliquées"
     institution: "Université Paris Cité"
     start: "2021-01-01"
     end: "2022-05-01"
+    summary: "Cours suivis: Algèbre, Analyse, Logique, Théorie de Galois, Arithmétique (Théorie algébrique des nombres), Théorie des ensembles, Topologie algébrique, Géométrie algébrique"
+
   - degree: "Licence 3 Mathématiques fondamentales et appliquées"
     institution: "Université Paris Cité"
     start: "2020-09-01"
     end: "2021-05-01"
+
   - degree: "CPGE Mathématiques (MPSI-MP)"
     institution: "Lycée Jacques Amyot"
     start: "2018-09-01"
