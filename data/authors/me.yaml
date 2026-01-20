@@ -6,7 +6,7 @@ name:
   given: "Nugzari"
   family: "Uzoevi"
   alternate: ''  # Example: 王伟
-  pronunciation: 'Nougzar'  # Example: Wáng Wěi
+  pronunciation: ''  # Example: Wáng Wěi
   pronouns: "Nougzar"
 #postnominals:
 #  - PhD
