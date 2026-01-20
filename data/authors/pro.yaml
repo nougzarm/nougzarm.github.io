@@ -4,8 +4,9 @@ experience:
     start: "2025-05-01"
     end: "2025-09-30"
     summary: |
-      Stage de recherche et développement sous la direction de Michele Orrù et Balthazar Bauer, focalisé sur les **Preuves à divulgation nulle de connaissance (ZKP)**./n
-
+      Stage de recherche et développement sous la direction de Michele Orrù et Balthazar Bauer, focalisé sur les **Preuves à divulgation nulle de connaissance (ZKP)**.
+       
+        
       * **• Développement Rust :** Contribution majeure à la librairie open source **sigma-proofs**, en mettant l'accent sur la performance et la sécurité mémoire.
       * **• Architecture Cryptographique :** Conception et implémentation modulaire de protocoles Sigma, incluant des briques de composition complexes (portes logiques AND/OR).
       * **• Standardisation & Impact :** Travaux techniques ayant contribué directement à la **standardisation IETF** et intégrés au sein du **projet Tor**.
