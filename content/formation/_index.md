@@ -12,7 +12,7 @@ design:
 sections:
   - block: resume-experience
     content:
-      title: Education
+      title: Formation
       username: edu
     design:
       date_format: 'January 2006'
