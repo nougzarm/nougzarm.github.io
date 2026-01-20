@@ -4,15 +4,15 @@ education:
     start: "2024-09-01"
     end: "2025-10-01"
     summary: |
-      * **Cours suivis :** Cryptologie symétrique/asymétrique, Codes correcteurs, Réseaux sécurisés, Informatique embarquée, Protocoles des services internet, Méthodes formelles, sécurité des protocoles
+      * **Cours suivis :** Cryptologie symétrique/asymétrique, Codes correcteurs, Réseaux sécurisés, Informatique embarquée, Protocoles des services internet, Méthodes formelles, sécurité des protocoles.
 
   - degree: "Master 2 Mathématiques fondamentales"
     institution: "Université Paris Cité"
     start: "2022-09-01"
     end: "2023-09-01"
     summary: |
-      * **Cours suivis (semestre 1) :** Variétés algébriques, Théorie des catégories, Homologie, Schémas, Faisceaux cohérents, Champs algébriques
-      * **Semestre 2 :** Stage de fin de Master
+      * **Cours suivis (semestre 1) :** Variétés algébriques, Théorie des catégories, Homologie, Schémas, Faisceaux cohérents, Champs algébriques.
+      * **Semestre 2 :** Stage de fin de Master.
 
   - degree: "Master 1 Mathématiques fondamentales et appliquées"
     institution: "Université Paris Cité"
@@ -26,7 +26,9 @@ education:
     institution: "Université Paris Cité"
     start: "2020-09-01"
     end: "2021-05-01"
-    summary: "Cours suivis: Algèbre, Analyse, Probabilités, Géométrie affine, Actions de groupes, Intégration et séries de Fourier, Fonctions holomorphes, Logique"
+    summary: |
+      * **Semestre 1 :** Algèbre, Analyse, Probabilités, Topologie, Géométrie affine, Actions de groupes.
+      * **Semestre 2 :** Intégration et séries de Fourier, Fonctions holomorphes, Algèbre 2, Logique.
 
   - degree: "CPGE Mathématiques (MPSI-MP)"
     institution: "Lycée Jacques Amyot"
