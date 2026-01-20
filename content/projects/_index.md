@@ -17,10 +17,10 @@ sections:
         folders:
           - projects
     design:
-      view: article-grid
+      view: compact
       fill_image: false
       columns: 2
-      show_date: true
+      show_date: false
       show_read_time: false
       show_read_more: false
 ---
