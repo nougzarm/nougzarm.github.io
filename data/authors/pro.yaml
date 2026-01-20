@@ -2,7 +2,7 @@ experience:
   - role: "Stage de fin d'études en cryptographie (ZKP)"
     org: "UVSQ (Laboratoire)"
     start: "2025-05-01"
-    end: "2025-10-31"
+    end: "2025-09-30"
     summary: "Sous la direction de Michele Orrù et Balthazar Bauer.
 
       - Contribution à la librairie open source **sigma-proofs** (Rust).

@@ -1,8 +1,8 @@
 education:
   - degree: "Master 2 Mathématiques, Informatique, Cryptologie (MIC)"
     institution: "Université Paris Cité"
-    start: "2024-01-01"
-    end: "2025-12-31"
+    start: "2024-09"
+    end: "2025-10"
     summary: "Cours majeurs: Cryptologie symétrique/asymétrique, Réseaux sécurisés, Informatique embarquée, sécurité des protocoles, ZKP.\n"
   - degree: "Master 2 Mathématiques fondamentales"
     institution: "Université Paris Cité"
