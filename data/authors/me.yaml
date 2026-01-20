@@ -6,8 +6,8 @@ name:
   given: "Nugzari"
   family: "Uzoevi"
   alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: "il/lui"
+  pronunciation: 'Nougzar'  # Example: Wáng Wěi
+  pronouns: "Nougzar"
 #postnominals:
 #  - PhD
 #  - MIEEE
