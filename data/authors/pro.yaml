@@ -1,12 +1,13 @@
 experience:
-  - role: "Stage de fin d'études en cryptographie (ZKP)"
+  - role: "Stage de fin d'études (M2) en cryptographie"
     org: "UVSQ (Laboratoire)"
     start: "2025-05-01"
     end: "2025-09-30"
-    summary: "Sous la direction de Michele Orrù et Balthazar Bauer.
+    summary: |
+      Stage de recherche et développement sous la direction de Michele Orrù et Balthazar Bauer, focalisé sur les **Preuves à divulgation nulle de connaissance (ZKP)**.
 
-      - Contribution à la librairie open source **sigma-proofs** (Rust).
-
-      - Travaux menant à la standardisation IETF et intégration dans Tor.
-
-      - Implémentation de protocoles Sigma et architecture modulaire.\n"
+      * **Développement Rust :** Contribution majeure à la librairie open source **sigma-proofs**, en mettant l'accent sur la performance et la sécurité mémoire.
+      * **Architecture Cryptographique :** Conception et implémentation modulaire de protocoles Sigma, incluant des briques de composition complexes (portes logiques AND/OR).
+      * **Standardisation & Impact :** Travaux techniques ayant contribué directement à la **standardisation IETF** et intégrés au sein du **projet Tor**.
+      * **Assurance Qualité :** Mise en place d'une suite de tests unitaires rigoureux et réalisation de revues de code critiques pour garantir la conformité aux standards cryptographiques.
+      * **Documentation Technique :** Rédaction de spécifications et de guides d'utilisation facilitant l'adoption de la librairie par la communauté.
