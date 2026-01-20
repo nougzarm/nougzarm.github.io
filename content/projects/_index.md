@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Projets
+      title: Mes projets
       text: Bienvenu(e) dans la section Projets. Voici une liste de mes projets personnels
       filters:
         folders:
@@ -20,7 +20,7 @@ sections:
       view: article-grid
       fill_image: false
       columns: 2
-      show_date: false
+      show_date: true
       show_read_time: false
       show_read_more: false
 ---
