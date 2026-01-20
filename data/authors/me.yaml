@@ -13,8 +13,8 @@ name:
 #  - MIEEE
 status:
   icon: "☕️"
-role: "Cryptographe"
-bio: "Récemment diplômé d'un Master de Mathématiques, Informatiques et Cryptologie (MIC), je suis actuellement à la recherche d'opportunités dans le domaine de la cryptographie.\n"
+role: "Maths/Crypto"
+bio: "Bienvenu(e) sur mon site perso ! Récemment diplômé d'un Master de Mathématiques, Informatiques et Cryptologie (MIC), je suis actuellement à la recherche d'opportunités dans le domaine de la cryptographie.\n"
 
 affiliations:
   - name: "Université Paris Cité"
