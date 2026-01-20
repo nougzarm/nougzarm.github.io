@@ -6,8 +6,10 @@ summary: "Implémentation FIPS 203 : Développement en Rust pur du standard
   ML-KEM (Kyber), validé par les vecteurs de tests officiels du NIST (KATs) pour
   les niveaux 512, 768 et 1024."
 links:
-  - type: Depôt GitHub
+  - name: Depôt GitHub
     url: https://github.com/nougzarm/kyber-nz
+  - name: crates.io
+    url: https://crates.io/crates/kyber-nz
 tags:
   - Cryptography
   - Kyber
