@@ -10,10 +10,11 @@ design:
 
 # Page sections
 sections:
-  - block: education
+  - block: experience
     content:
       title: Formation
       username: edu
     design:
       date_format: 'January 2006'
+      is_education_first: false
 ---
