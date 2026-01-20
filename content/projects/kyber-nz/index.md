@@ -16,8 +16,6 @@ tags:
 
 ---
 
-<!-- Describe the problem, your approach, key results, and links to code/data. -->
-
 ### Présentation du projet
 
 Ce projet est une librairie de **Cryptographie Post-Quantique (PQC)** développée en Rust pur.
