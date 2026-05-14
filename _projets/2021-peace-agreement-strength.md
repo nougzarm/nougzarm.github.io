@@ -1,6 +1,6 @@
 ---
 title: "A Latent Variable Approach to Measuring and Explaining Peace Agreement Strength"
-collection: projets
+collection: publications
 permalink: /projets/2021-peace-agreement-strength
 date: 2021-01-27
 venue: 'Political Science Research and Methods'
