@@ -5,3 +5,4 @@ images/posts/*.sty
 _source/*_cache
 .Rproj.user
 Gemfile.lock
+.DS_store
