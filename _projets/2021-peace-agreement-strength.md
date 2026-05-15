@@ -1,5 +1,5 @@
 ---
-title: "A Latent Variable Approach to Measuring and Explaining Peace Agreement Strength"
+title: "A Latent Variable Approach to Measuring and Explaining Peace Agreement Strengthh"
 collection: projets
 permalink: /projets/2021-aa
 date: 2021-01-27
